@@ -1,2 +1,0 @@
-# Tallerdovich
-tallerdardo
