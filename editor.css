@@ -316,13 +316,14 @@ p {
     }
 
     .sede-texto h2 {
-        font-size: 2.5rem;
+        font-size: 30px;
+        font-weight: 900;
     }
 
     .sede-title-line {
         display: block;
         padding: 6px 10px;
-        font-size: 1.8rem;
+        font-size: 30px;
         font-weight: 900;
     }
 
@@ -863,11 +864,11 @@ p {
     }
 
     .hero-text h1 {
-        font-size: 1.6rem;
+        font-size: 30px;
         font-weight: 900;
         line-height: 1.6;
         display: inline;
-        padding: 5px 10px;
+        padding: 3px 5px;
 
         margin-bottom: 8px;
 
@@ -878,7 +879,7 @@ p {
     }
 
     .hero-text p {
-        font-size: 1rem;
+        font-size: 20px;
         line-height: 1.5;
         margin-top: 30px;
     }
@@ -906,7 +907,7 @@ p {
     }
 
     .caja-info .caja-title {
-        font-size: 1.6rem;
+        font-size: 30px;
         font-weight: 900;
 
         line-height: 1.6;
@@ -992,7 +993,7 @@ p {
 
 
     .sede-title-line {
-        font-size: 1.8rem !important;
+        font-size: 30px !important;
         font-weight: 900;
 
         padding: 5px 10px;
@@ -1011,7 +1012,8 @@ p {
     .titulo-destacado {
         display: block;
         text-align: left;
-        font-size: 1.8rem;
+        font-size: 30px;
+        font-weight: 900;
         margin-bottom: 20px;
     }
 
@@ -1125,6 +1127,11 @@ p {
         border-radius: 16px;
     }
 
+    .titulo-formulario-faja {
+        font-size: 30px;
+        font-weight: 900;
+    }
+
     .caja-cierre-celeste {
         margin: 20px;
         padding: 20px;
@@ -1200,11 +1207,11 @@ p {
     }
 
     .contenedor-feedback h1 {
-        font-size: 1.8rem;
+        font-size: 30px;
     }
 
     .texto-feedback {
-        font-size: 1rem;
+        font-size: 20px;
     }
 
     .circulo-check {
